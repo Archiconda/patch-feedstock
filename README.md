@@ -1,6 +1,8 @@
 About patch
 ===========
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: http://savannah.gnu.org/projects/patch/
 
 Package license: GPL 3
@@ -19,6 +21,7 @@ Current build status
 
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/patch-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/patch-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/patch-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/patch-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a8d1578b0700305bb1/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/patch-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
@@ -107,3 +110,9 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@nehaljwani](https://github.com/nehaljwani/)
+
